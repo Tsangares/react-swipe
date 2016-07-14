@@ -23,7 +23,7 @@ npm install react swipe-js-iso react-swipe
 ### Example
 
 ```javascript
-import React from 'react'
+import React from 'react';
 import ReactDOM from 'react-dom';
 import ReactSwipe from 'react-swipe';
 
